@@ -1,4 +1,3 @@
-using System;
 
 namespace Classes;
 
@@ -15,6 +14,8 @@ public class BankAccount{
         this.Number =accountNumberSeed.ToString();
         accountNumberSeed++;
     }
+
+    private List<Transcation> allTranscations = new List<Transcation>();
 
     public void MakeDeposit(decimal amount,DateTime date,string note){
 
