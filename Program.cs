@@ -13,6 +13,8 @@ namespace MySuperBank
       Console.WriteLine(account.Balance);
       account.MakeDeposit(100, DateTime.Now, "Friend paid me back");
       Console.WriteLine(account.Balance);
+
+      Console.WriteLine(account.GetAccountHistrory());
      }
   }
 }
