@@ -1,0 +1,15 @@
+/home/agitari/Documents/C#/learning/bin/Debug/net6.0/learning
+/home/agitari/Documents/C#/learning/bin/Debug/net6.0/learning.deps.json
+/home/agitari/Documents/C#/learning/bin/Debug/net6.0/learning.runtimeconfig.json
+/home/agitari/Documents/C#/learning/bin/Debug/net6.0/learning.dll
+/home/agitari/Documents/C#/learning/bin/Debug/net6.0/learning.pdb
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.csproj.AssemblyReference.cache
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.GeneratedMSBuildEditorConfig.editorconfig
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.AssemblyInfoInputs.cache
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.AssemblyInfo.cs
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.csproj.CoreCompileInputs.cache
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.dll
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/refint/learning.dll
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.pdb
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/learning.genruntimeconfig.cache
+/home/agitari/Documents/C#/learning/obj/Debug/net6.0/ref/learning.dll
